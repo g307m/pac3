@@ -34,7 +34,7 @@
 									},
 									["self"] = {
 										["StopOnHide"] = true,
-										["URL"] = "https://motd02.000webhostapp.com/audio/default%20dance.ogg",
+										["URL"] = "https://raw.githubusercontent.com/grantlmul/pac3/master/default%20dance.ogg",
 										["OwnerName"] = "self",
 										["AimPartName"] = "",
 										["Volume"] = 1,
