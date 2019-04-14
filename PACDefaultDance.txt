@@ -11,7 +11,7 @@
 									},
 									["self"] = {
 										["StopOnHide"] = true,
-										["URL"] = "https://motd02.000webhostapp.com/PAC3/anim_defaultdance1.txt",
+										["URL"] = "https://raw.githubusercontent.com/grantlmul/pac3/master/anim_defaultdance1.txt",
 										["Offset"] = 0,
 										["OwnerName"] = "self",
 										["BonePower"] = 1,
